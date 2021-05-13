@@ -1,5 +1,5 @@
 {
-  "name": "aws-lambda-stream",
+  "name": "@darcybrown/aws-lambda-stream",
   "version": "0.11.0",
   "description": "Create stream processors with AWS Lambda functions.",
   "keywords": [
